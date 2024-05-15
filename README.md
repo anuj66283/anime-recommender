@@ -1,6 +1,6 @@
 # Anime Recommendation System
 
-A fun project that suggests anime based on your preferences.
+A fun project that suggests animes based on your preferences.
 
 
 ## How It Works
@@ -9,7 +9,8 @@ A fun project that suggests anime based on your preferences.
 - **Hybrid Magic:** Combines both approaches for tailored suggestions.
 
 ## Technologies
-- Pandas
-- NumPy
-- scikit-learn
-  
+- Pyspark
+
+## TODO
+- Implement Online learning
+- Improve accuracy
